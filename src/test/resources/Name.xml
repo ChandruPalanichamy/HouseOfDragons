@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name = "Suite of Chandru">
+<test name = "Chandru's Test">
+<classes>
+<class name = "MavenExercise.Exe_1"/>
+<class name = "MavenExercise.Exe_2"/>
+
+
+
+</classes>
+</test>
+</suite>

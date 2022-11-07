@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-03T11:48:39 IST" name="Default suite" finished-at="2022-11-03T11:54:10 IST" duration-ms="330581">
+    <groups>
+    </groups>
+    <test started-at="2022-11-03T11:48:39 IST" name="Default test" finished-at="2022-11-03T11:54:10 IST" duration-ms="330581">
+      <class name="SamplePackage.SampleClass">
+        <test-method is-config="true" signature="chromeDriverLaunch()[pri:0, instance:SamplePackage.SampleClass@291caca8]" started-at="2022-11-03T11:48:39 IST" name="chromeDriverLaunch" finished-at="2022-11-03T11:50:16 IST" duration-ms="96928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeDriverLaunch -->
+        <test-method signature="method1(java.lang.String,java.lang.String)[pri:0, instance:SamplePackage.SampleClass@291caca8]" started-at="2022-11-03T11:50:16 IST" name="method1" data-provider="sampledata" finished-at="2022-11-03T11:50:25 IST" duration-ms="8401" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[House Of Dragons]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[RRR]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method is-config="true" signature="driverClose()[pri:0, instance:SamplePackage.SampleClass@291caca8]" started-at="2022-11-03T11:50:25 IST" name="driverClose" finished-at="2022-11-03T11:50:25 IST" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method is-config="true" signature="chromeDriverLaunch()[pri:0, instance:SamplePackage.SampleClass@291caca8]" started-at="2022-11-03T11:50:25 IST" name="chromeDriverLaunch" finished-at="2022-11-03T11:50:57 IST" duration-ms="32006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeDriverLaunch -->
+        <test-method signature="method1(java.lang.String,java.lang.String)[pri:0, instance:SamplePackage.SampleClass@291caca8]" started-at="2022-11-03T11:50:57 IST" name="method1" data-provider="sampledata" finished-at="2022-11-03T11:51:05 IST" duration-ms="8250" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lord Of The Rings]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[KGF]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method is-config="true" signature="driverClose()[pri:0, instance:SamplePackage.SampleClass@291caca8]" started-at="2022-11-03T11:51:05 IST" name="driverClose" finished-at="2022-11-03T11:51:21 IST" duration-ms="16276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method is-config="true" signature="chromeDriverLaunch()[pri:0, instance:SamplePackage.SampleClass@291caca8]" started-at="2022-11-03T11:51:21 IST" name="chromeDriverLaunch" finished-at="2022-11-03T11:54:01 IST" duration-ms="159669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeDriverLaunch -->
+        <test-method signature="method1(java.lang.String,java.lang.String)[pri:0, instance:SamplePackage.SampleClass@291caca8]" started-at="2022-11-03T11:54:01 IST" name="method1" data-provider="sampledata" finished-at="2022-11-03T11:54:09 IST" duration-ms="8330" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ozark]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TROY]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method is-config="true" signature="driverClose()[pri:0, instance:SamplePackage.SampleClass@291caca8]" started-at="2022-11-03T11:54:09 IST" name="driverClose" finished-at="2022-11-03T11:54:10 IST" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+      </class> <!-- SamplePackage.SampleClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
